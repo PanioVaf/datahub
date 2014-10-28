@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/bad.svg</file>
+        <file>images/heart.svg</file>
+        <file>images/trash.svg</file>
+        <file>images/samovar.ico</file>
+    </qresource>
+</RCC>
